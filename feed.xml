@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Personal Blog</title>
+    <link href="https://littlenag.github.io/feed.xml" rel="self" />
+    <link href="https://littlenag.github.io" />
+    <updated>2019-04-14T22:31:53-05:00</updated>
+    <author>
+        <name>Mark K</name>
+    </author>
+    <id>https://littlenag.github.io</id>
+
+    <entry>
+        <title>Created a blog</title>
+        <author>
+            <name>Mark K</name>
+        </author>
+        <link href="https://littlenag.github.io/created-a-blog.html"/>
+        <id>https://littlenag.github.io/created-a-blog.html</id>
+
+        <updated>2019-04-14T22:31:46-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I wrote something on my blog today! Why Scala Rocks for Big Data and More Slides for ContainerizeThis 2016 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I wrote something on my blog today!</p>
+<p> </p>
+<p>Why Scala Rocks for Big Data and More</p>
+<p>Slides for ContainerizeThis 2016<br><br></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
